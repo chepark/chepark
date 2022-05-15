@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Chaeah Park. 
+- 👀 I’m interested in web development, especially client-side. 
+- 🌱 I’m currently a freshman major in Information Technology. 
+- 📫 chaeahpark.kr@gmail.com
