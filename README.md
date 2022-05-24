@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chaeah Park. 
-- 👀 I’m interested in web development, especially the client-side of E-commerce. 
-- 🌱 I’m currently a freshman majoring in Information Technology. 
+- 👋 Hi, I'm Chaeah Park. 
+- 👀 I’m interested in web development, especially in client-side. 
+- 🌱 I major in Information Technology at Metropolia Applied Science University. 
 - 📫 chaeahpark.kr@gmail.com
