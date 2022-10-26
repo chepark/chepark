@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Chaeah Park. 
 - 👀 I’m interested in web development and my primary language is JavaScript. 
-- 🌱 I major in Information Technology at Metropolia Applied Science University. 
+- 🌱 I major in Information Technology at Metropolia University of Applied Science. 
 - 📫 chaeah.park@metropolia.fi
 - 🌐 My Portfolio Website: [www.chaeah.me](https://www.chaeah.me/)
