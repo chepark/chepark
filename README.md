@@ -2,4 +2,4 @@
 - 👀 I love crafting things on the Internet. Obsessive with the UI and UX.
 - 🌱 Alongside my bachelor's study in Information Technology, I work as a part-time software developer. 
 - 📫 chaeah.park@metropolia.fi
-- 🌐 My Portfolio Website: [www.chaeah.me](https://www.chaeah.me/)
+- 🌐 My Portfolio Website: [www.chaeah.me](https://www.chaeah.com/)
